@@ -17,4 +17,6 @@
    # macOS/Linux
    source venv/bin/activate
 
-# Note: If some file number are missing then they are probably Exercise files where these is a question, these files are covered in Exe folder
+# Note: If certain file numbers appear to be missing, they correspond to exercise files.
+# These exercise-based files are intentionally located in the "Exe" folder, 
+# which contains questions and practice problems covered separately.
