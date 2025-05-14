@@ -16,3 +16,5 @@
    .\venv\Scripts\activate
    # macOS/Linux
    source venv/bin/activate
+
+# Note: If some file number are missing then they are probably Exercise files where these is a question, these files are covered in Exe folder
