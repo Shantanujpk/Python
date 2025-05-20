@@ -16,7 +16,6 @@
    .\venv\Scripts\activate
    # macOS/Linux
    source venv/bin/activate
-
-# Note: If certain file numbers appear to be missing, they correspond to exercise files.
-# These exercise-based files are intentionally located in the "Exe" folder, 
-# which contains questions and practice problems covered separately.
+Note: If certain file numbers appear to be missing, they correspond to exercise files.
+These exercise-based files are intentionally located in the "Exe" folder, 
+Which contains questions and practice problems covered separately.
