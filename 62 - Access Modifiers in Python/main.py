@@ -3,7 +3,7 @@
 # - public: accessible everywhere
 # - protected: accessible within the class and its subclasses (convention with a single underscore _)
 # - private: accessible only within the class (double underscore __)
-
+# -  Encapsulation is the concept of wrapping data (variables) and methods (functions) into a single unit — typically a class — and restricting direct access to some of the object's components.
 class Company:
     def __init__(self, age, name):
         self.age = age           # public
