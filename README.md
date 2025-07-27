@@ -2,7 +2,7 @@
 
 ## Requirements
 - Python 3.10 or above  
-- Visual Studio Code (latest version, e.g., 1.89+)
+- Visual Studio Code (latest version, e.g., 1.89+) or any ther JDE that supports python
 
 ## Steps to Run
 
